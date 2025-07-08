@@ -21,9 +21,9 @@ A simple, desktop-based **To-Do List App** built using **Python and Tkinter**. T
 
 ## 📸 Screenshots
 
-| App Interface | Marked Done |
-|---------------|-------------|
-| ![Main UI](images/todo_main.png) | ![Task Done](images/todo_done.png) |
+![Home](pl.png)
+![Python Tutorial](pl2.png)
+![Java Section](pl3.png)
 
 
 ## 💡 Purpose
